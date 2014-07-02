@@ -1,0 +1,18 @@
+/* CSS Document */
+
+
+.row { 
+margin: 0px auto;
+max-width: 100%;
+min-width: 768px;
+width: 1000px;
+}
+
+div{ 
+display: block;
+float:right;
+direction: ltr;
+font-size: 14px;
+margin: 0px;
+padding: 0px;
+}
